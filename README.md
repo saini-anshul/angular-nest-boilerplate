@@ -15,7 +15,7 @@
 
 ```sh
 git clone https://github.com/saini-anshul/angular-nest-boilerplate.git
-cd .\angular-nest-boilerplate
+cd angular-nest-boilerplate
 npm i
 ```
 #
